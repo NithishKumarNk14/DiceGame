@@ -1,0 +1,37 @@
+.container {
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.dice {
+  display: inline-block;
+  margin: 15px;
+}
+
+body {
+  background-color: #2C2F33;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  margin: 25px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 4px 4px #1C1E22;
+  font-size: 7rem;
+  color: #FF6B6B;
+}
+
+p {
+  font-size: 1.8rem;
+  color: #FFD93D;
+  font-family: 'Comfortaa', cursive;
+}
+
+img {
+  width: 70%;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.4);
+}
+
